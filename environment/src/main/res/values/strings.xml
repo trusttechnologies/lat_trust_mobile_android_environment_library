@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_pin_code">Insert PIN code</string>
+    <string name="txt_env_radio">Select a environment</string>
+
+</resources>

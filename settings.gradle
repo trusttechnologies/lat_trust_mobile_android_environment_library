@@ -1,2 +1,3 @@
+include ':environment'
 include ':app'
 rootProject.name = "TrustEasterEggApp"
